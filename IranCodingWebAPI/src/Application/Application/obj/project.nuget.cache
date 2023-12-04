@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5PeU9Kn4eF/hZkZG29s1Sd+K++4WlmWd9+w0uEjZKn8+o38Sx8NqM4DoMMIi0ayaLlpPY8g6wokkhr9aEO1cAQ==",
+  "dgSpecHash": "+gHtfCwvbcg0GePWxqlJoOm7E+tFhi9uviSWZPoKm9R4WWFwXPCuF5RMJwtN3IMTGk/se96Za90U/dSqlp5gUg==",
   "success": true,
-  "projectFilePath": "D:\\IranCoding\\Tutorials\\Backend\\Server Side\\DotNet\\ASP Core\\Web API In ASP Core 7\\CodeCell\\Completed\\E01\\Project\\IranCodingWebAPI\\src\\Application\\Application\\Application.csproj",
+  "projectFilePath": "D:\\IranCoding\\Tutorials\\Backend\\Server Side\\DotNet\\ASP Core\\Web API In ASP Core 7\\CodeCell\\Git\\IranCodingWebAPI\\src\\Application\\Application\\Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

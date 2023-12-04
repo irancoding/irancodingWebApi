@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IranCoding\\Tutorials\\Backend\\Server Side\\DotNet\\ASP Core\\Web API In ASP Core 7\\CodeCell\\Git\\IranCodingWebAPI\\src\\Infrastructure\\Infrastructure.csproj": {}
+    "D:\\IranCoding\\Tutorials\\Backend\\Server Side\\DotNet\\ASP Core\\Web API In ASP Core 7\\CodeCell\\Git\\IranCodingWebAPI\\src\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
     "D:\\IranCoding\\Tutorials\\Backend\\Server Side\\DotNet\\ASP Core\\Web API In ASP Core 7\\CodeCell\\Git\\IranCodingWebAPI\\src\\Application\\Application\\Application.csproj": {
@@ -184,6 +184,86 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\IranCoding\\Tutorials\\Backend\\Server Side\\DotNet\\ASP Core\\Web API In ASP Core 7\\CodeCell\\Git\\IranCodingWebAPI\\src\\WebAPI\\WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\IranCoding\\Tutorials\\Backend\\Server Side\\DotNet\\ASP Core\\Web API In ASP Core 7\\CodeCell\\Git\\IranCodingWebAPI\\src\\WebAPI\\WebAPI.csproj",
+        "projectName": "WebAPI",
+        "projectPath": "D:\\IranCoding\\Tutorials\\Backend\\Server Side\\DotNet\\ASP Core\\Web API In ASP Core 7\\CodeCell\\Git\\IranCodingWebAPI\\src\\WebAPI\\WebAPI.csproj",
+        "packagesPath": "C:\\Users\\Developer6669\\.nuget\\packages\\",
+        "outputPath": "D:\\IranCoding\\Tutorials\\Backend\\Server Side\\DotNet\\ASP Core\\Web API In ASP Core 7\\CodeCell\\Git\\IranCodingWebAPI\\src\\WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Developer6669\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\IranCoding\\Tutorials\\Backend\\Server Side\\DotNet\\ASP Core\\Web API In ASP Core 7\\CodeCell\\Git\\IranCodingWebAPI\\src\\Application\\Application\\Application.csproj": {
+                "projectPath": "D:\\IranCoding\\Tutorials\\Backend\\Server Side\\DotNet\\ASP Core\\Web API In ASP Core 7\\CodeCell\\Git\\IranCodingWebAPI\\src\\Application\\Application\\Application.csproj"
+              },
+              "D:\\IranCoding\\Tutorials\\Backend\\Server Side\\DotNet\\ASP Core\\Web API In ASP Core 7\\CodeCell\\Git\\IranCodingWebAPI\\src\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "D:\\IranCoding\\Tutorials\\Backend\\Server Side\\DotNet\\ASP Core\\Web API In ASP Core 7\\CodeCell\\Git\\IranCodingWebAPI\\src\\Infrastructure\\Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
