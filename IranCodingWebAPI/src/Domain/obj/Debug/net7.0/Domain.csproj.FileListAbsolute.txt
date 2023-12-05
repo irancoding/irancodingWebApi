@@ -1,0 +1,11 @@
+D:\IranCoding\Tutorials\Backend\Server Side\DotNet\ASP Core\Web API In ASP Core 7\CodeCell\Git\IranCodingWebAPI\src\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\IranCoding\Tutorials\Backend\Server Side\DotNet\ASP Core\Web API In ASP Core 7\CodeCell\Git\IranCodingWebAPI\src\Domain\bin\Debug\net7.0\Domain.dll
+D:\IranCoding\Tutorials\Backend\Server Side\DotNet\ASP Core\Web API In ASP Core 7\CodeCell\Git\IranCodingWebAPI\src\Domain\bin\Debug\net7.0\Domain.pdb
+D:\IranCoding\Tutorials\Backend\Server Side\DotNet\ASP Core\Web API In ASP Core 7\CodeCell\Git\IranCodingWebAPI\src\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\IranCoding\Tutorials\Backend\Server Side\DotNet\ASP Core\Web API In ASP Core 7\CodeCell\Git\IranCodingWebAPI\src\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\IranCoding\Tutorials\Backend\Server Side\DotNet\ASP Core\Web API In ASP Core 7\CodeCell\Git\IranCodingWebAPI\src\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\IranCoding\Tutorials\Backend\Server Side\DotNet\ASP Core\Web API In ASP Core 7\CodeCell\Git\IranCodingWebAPI\src\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\IranCoding\Tutorials\Backend\Server Side\DotNet\ASP Core\Web API In ASP Core 7\CodeCell\Git\IranCodingWebAPI\src\Domain\obj\Debug\net7.0\Domain.dll
+D:\IranCoding\Tutorials\Backend\Server Side\DotNet\ASP Core\Web API In ASP Core 7\CodeCell\Git\IranCodingWebAPI\src\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\IranCoding\Tutorials\Backend\Server Side\DotNet\ASP Core\Web API In ASP Core 7\CodeCell\Git\IranCodingWebAPI\src\Domain\obj\Debug\net7.0\Domain.pdb
+D:\IranCoding\Tutorials\Backend\Server Side\DotNet\ASP Core\Web API In ASP Core 7\CodeCell\Git\IranCodingWebAPI\src\Domain\obj\Debug\net7.0\ref\Domain.dll
